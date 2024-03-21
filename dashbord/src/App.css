@@ -1,0 +1,9 @@
+.link{
+  text-decoration: none;
+  color: inherit;
+}
+.card_body{
+  background: #262626;
+  border-radius: 10px;
+  border: 1px solid #3F3F40;
+}
